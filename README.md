@@ -1,4 +1,4 @@
-# privacy.html
+# tiktok-legal
 <!DOCTYPE html>
 <html lang="en">
 <head>
